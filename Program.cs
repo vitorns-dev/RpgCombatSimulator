@@ -1,3 +1,5 @@
+using System;
+
 namespace Calculadora_Gamer_RPG
 {
     class Program
